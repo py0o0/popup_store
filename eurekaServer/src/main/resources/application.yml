@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: eureka-server
+  devtools:
+    restart:
+      enabled: false
+
+server:
+  port: 8761
+
+
+eureka:
+  server:
+    enable-self-preservation: false
+  client:
+    register-with-eureka: false
+    fetch-registry: false
