@@ -25,7 +25,7 @@ MSA 구조 기반의 시스템으로 팝업 스토어 개설 과정에서 발생
 
 | Backend | Frontend | Frontend | Backend | Backend | 
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="증사 2" width="170" height="200"> | <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="프로필" width="170" height="200"> |  <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="프로필" width="170" height="200"> | <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="프로필" width="170" height="200"> | <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="프로필" width="170" height="200"> |
+| <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="증사 2" width="170" height="200"> | <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="프로필" width="170" height="200"> |  <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="프로필" width="170" height="200"> | <img src="https://github.com/user-attachments/assets/44c5ca02-64c7-4a53-8e27-dc125462651d" alt="프로필" width="170" height="200"> | <img src="https://github.com/user-attachments/assets/03b048bc-9299-4c6b-a084-57fbc3da9499" alt="프로필" width="170" height="200"> |
 | [김상훈](https://github.com/sanghunkim20)  | [윤병욱](https://github.com/ByeongukYun)  |[이주원](https://github.com/kanguju)  |[정병준](https://github.com/ttjbjtt)  |[채승표](https://github.com/py0o0)  |
 
 <br></br>
