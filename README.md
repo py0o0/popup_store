@@ -56,7 +56,7 @@ MSA 구조 기반의 시스템으로 팝업 스토어 개설 과정에서 발생
 <br>
 
  ## ERD
-<img src= "https://github.com/user-attachments/assets/c8fab37f-545b-4f46-8d6c-2a9ece3a5498" alt="DB" width="100%" height="auto">
+[ERD](https://www.notion.so/ERD-2a63e509776d80d79c95cb8046898e9f)
 
 <br>
 
